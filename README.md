@@ -1,4 +1,3 @@
-```markdown
 # Knights Travails
 
 This repository contains solutions in both JavaScript and Ruby for the Knights Travails problem.
@@ -47,4 +46,3 @@ knightMoves([3,3],[4,3]);
 - The chessboard is represented as an 8x8 grid with coordinates `[x, y]`.
 - The solutions output the shortest path from the starting square to the target square.
 - If no path is found, the solutions output "No path found."
-```
